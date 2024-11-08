@@ -1,6 +1,6 @@
 # Puppy Bowl in React
 
-- [ ] Render a list for each player
+- [x] Render a list for each player
 - [ ] See details button for each player
 - [ ] Details page for each player
 - [ ] Create new player button
