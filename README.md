@@ -16,3 +16,4 @@
   3. in child you want to receive information, add prop to component const parenthesis. const ComponentOne = ({setX}) => {}
   4. This information is now connected to the child and can be used as needed.
 - You can use components in ternary functions!!! This is super cool. So many possibilities with that functionality.
+- You can use an anonymous function to prevent an event listener from being run when the page loads. <button onClick={() => puppyClicked(singlePuppy)}>Puppy Details</button>
