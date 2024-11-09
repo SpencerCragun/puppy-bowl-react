@@ -2,7 +2,7 @@
 
 - [x] Render a list for each player
 - [x] See details button for each player
-- [ ] Details page for each player
+- [x] Details page for each player
 - [ ] Create new player button
 - [ ] Search feature for each player
 - [ ] Delete Button for players created by us
