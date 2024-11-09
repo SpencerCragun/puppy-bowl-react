@@ -22,7 +22,6 @@ const [puppies, setPuppies] = useState([]);
   return (
     <ul>
       {puppies.map((singlePuppy) => {
-        console.log(singlePuppy)
       return <li key={singlePuppy.id}>{singlePuppy.name}
       <button onClick={() => puppyClicked(singlePuppy)}>Puppy Details</button></li>
       })}

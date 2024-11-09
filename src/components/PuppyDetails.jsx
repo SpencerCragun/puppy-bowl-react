@@ -1,12 +1,13 @@
 const PuppyDetails = ({ puppyDetails }) => {
+  const {name, breed, status, teamId } = puppyDetails
 
   return(
     <>
-    <h1>{puppyDetails.name}</h1>
+    <h1>{name}</h1>
     <ul>
-      <li>Breed: {puppyDetails.breed}</li>
-      <li>Status: {puppyDetails.status}</li>
-      <li>Team Id: {puppyDetails.teamId}</li>
+      <li>Breed: {breed}</li>
+      <li>Status: {status}</li>
+      <li>Team Id: {teamId}</li>
     </ul>
     
     </>
