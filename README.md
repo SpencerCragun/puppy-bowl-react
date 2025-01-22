@@ -6,6 +6,7 @@
 - [x] Create new player button
 - [ ] Search feature for each player
 - [ ] Delete Button for players created by us
+- [ ] Styling
 
 ### Biggest project takeaways
 
